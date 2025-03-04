@@ -1,5 +1,5 @@
 exclude:
-  - readme.md
+  - README.md
   - .github/
 header_pages:
   - index.html
