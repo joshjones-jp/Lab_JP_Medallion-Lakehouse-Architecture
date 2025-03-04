@@ -1,6 +1,6 @@
 ---
 title: Medallion Lakehouse アーキテクチャ入門🥉🥈🥇
-permalink: FabricLH演習.html
+permalink: index.html
 layout: home
 ---
 
