@@ -21,10 +21,10 @@ Fabricだけではなく、他にもアーキテクチャの図は作成可能�
 
 ## Azure Diagramsへのアクセスと準備
 
-先ずは以下のリンクをコピーして、ブラウザでアクセスしてください。
+先ずは以下のリンクをクリックし、ブラウザでアクセスしてください。
 
 ```
-https://azurediagrams.com/
+[https://azurediagrams.com/](https://azurediagrams.com/)
 ```
 
 You'll develop your search app using Visual Studio Code. The code files for your app have been provided in a GitHub repo.
