@@ -25,6 +25,8 @@ Fabricだけではなく、他にもアーキテクチャの図は作成可能�
 
 [https://azurediagrams.com/](https://azurediagrams.com/)
 
+<a href="https://azurediagrams.com/" target="_blank">https://azurediagrams.com</a>
+
 
 You'll develop your search app using Visual Studio Code. The code files for your app have been provided in a GitHub repo.
 
