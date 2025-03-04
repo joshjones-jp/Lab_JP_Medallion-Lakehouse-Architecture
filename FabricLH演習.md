@@ -23,8 +23,7 @@ Fabricだけではなく、他にもアーキテクチャの図は作成可能�
 
 先ずは以下のリンクをブラウザの別タブでアクセスしてください。
 
-[https://azurediagrams.com/](https://azurediagrams.com/)
-
+<!-- This link format lets us open in a seperate tab 😇 -->
 <a href="https://azurediagrams.com/" target="_blank">https://azurediagrams.com</a>
 
 
