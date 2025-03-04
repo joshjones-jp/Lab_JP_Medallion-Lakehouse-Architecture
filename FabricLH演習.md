@@ -3,7 +3,13 @@ title: Medallion Lakehouse アーキテクチャ入門🥉🥈🥇
 permalink: index.html
 layout: home
 ---
+## Medallion アーキテクチャについて
 
+今回の演習の目標は Fabric のアーキテクチャをハンズオンでビルドして、グループで共有する事です。
+人の作り方や好みによって、自然に図の見た目のバリエーションがあります。
+最も大切なのは、**自分のFabricの理解を深める事です。**
+
+## Azure Diagrams について
 この演習では、無料ツールのAzure Diagramsを使用し、Fabricのアーキテクチャを説明する図を作ります。
 
 Azure Diagramsは、Microsoft の公式なツールではありません。Microsoft の社員がアーキテクチャを説明するために作った便利なリソースです。
@@ -14,10 +20,6 @@ Fabricだけではなく、他にもアーキテクチャの図は作成可能�
 - Azure
 - Power Platform・Dynamics 365
 - マイクロソフト以外のベンダー（GCP、AWS等）
-
-今回の演習の目標は Fabric のアーキテクチャをハンズオンでビルドして、グループで共有する事です。
-人の作り方や好みによって、自然に図の見た目のバリエーションがあります。
-最も大切なのは、**自分のFabricの理解を深める事です。**
 
 ## Azure Diagramsへのアクセスと準備
 
