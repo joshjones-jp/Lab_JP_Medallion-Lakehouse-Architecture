@@ -1,5 +1,5 @@
 ---
-title: Online Hosted Instructions
+title: Medallion Lakehouse アーキテクチャ入門🥉🥈🥇
 permalink: index.html
 layout: home
 ---
