@@ -30,9 +30,12 @@ Fabricだけではなく、他にもアーキテクチャの図は作成可能�
 ## Azure Diagramsへのアクセスと準備
 
 先ずは以下のリンクをブラウザの別タブでアクセスしてください。
+**Blank Canvas** を押します。
 
 <!-- This link format lets us open in a seperate tab 😇 -->
 <a href="https://azurediagrams.com/" target="_blank">https://azurediagrams.com</a>
+
+
 
 <img src="images/AZD1.png" alt="Azure Diagramsメイン画面" style="width:950px; height:500px;">
 
@@ -40,6 +43,11 @@ Fabricだけではなく、他にもアーキテクチャの図は作成可能�
 ツールの案内と説明
 
 ### **任意**: アカウントの登録
+
+<img src="images/AZD8.png" alt="Azure Diagrams画面" style="width:950px; height:500px;">
+
+<img src="images/AZD8-5.png" alt="Azure Diagrams画面" style="width:950px; height:500px;">
+
 
 ## Fabricのサンプル アーキテクチャ図を確認する
 
