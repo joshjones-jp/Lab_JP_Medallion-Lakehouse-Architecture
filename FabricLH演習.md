@@ -40,7 +40,70 @@ Fabricだけではなく、他にもアーキテクチャの図は作成可能�
 <img src="images/AZD1.png" alt="Azure Diagramsメイン画面" style="width:950px; height:500px;">
 
 
-ツールの案内と説明
+### ツールの案内と説明
+
+使い方1️⃣：右上の機能
+
+1. **New Diagram**: 新しい画面を作る操作。編集中のDiagramを保存しないで New Diagram押すと、途中までの図が削除される
+    
+1. **Clone Diagram**: 表情の図を新しいリンクで複製する
+    
+1. **Export**:　図を画像としてエクスポートする
+
+1. **Settings**: プロフィールや図についてさまざまな設定。
+    
+1. **Save Changes**: 変更は自動保存じゃないため、閉じる前に押すこと
+    
+1. **プロフィール**: （任意）アカウントのログイン、プロフィール編集、パスワード変更
+    
+
+<img src="images/AZD2.png" alt="Azure Diagrams Tutorial" style="width:950px; height:500px;">
+
+
+使い方2️⃣：左側の図パーツ
+
+1. **Search**: よく利用されるサービスを検索して図に追加する。全てのリソースでもない
+    
+1. **Annotation**: 長文のテキストを書くためのラベル
+    
+1. **Label**:　短文のテキストを書くためのラベル
+
+1. **Custom Resource**: 製品やプロセスのカスタムでできるタイル。アイコン、タイトル、サブタイトルが含まれる
+    
+1. **Section**: 複数のリソースをまとめて表情するためのボックス
+    
+1. **Shape**: 図形の作成
+
+<img src="images/AZD3.png" alt="Azure Diagrams Tutorial" style="width:950px; height:500px;">
+
+使い方3️⃣：カスタム リソース
+
+1. **Custom Resource**: ドラッグアンドドロップで図に追加
+    
+1. **接続・データ フロー**: Custom Resourceの間に線を引くと、データの流れを表示する。リソースの種類によって、自動的線も変わる場合がある
+    
+1. **カスタマイズ**:　アイコンを押すと、Resource タイルの表示設定を調整
+
+1. **アイコン**: Searchで表示されないアイコンがたくさんある。より細かいアーキテクチャ図を作るならオススメ
+
+
+<img src="images/AZD4.png" alt="Azure Diagrams Tutorial" style="width:950px; height:500px;">
+
+使い方4️⃣：カスタム シェイプ
+
+1. **Shapes**: ドラッグアンドドロップで図に追加
+    
+1. **Shape**: 図形の形を設定する
+    
+1. **Background Color**:　透明度をマックスに上げると、枠だけの図形になる
+
+1. **Border Color**: 図の枠の色の設定
+
+
+
+<img src="images/AZD5.png" alt="Azure Diagrams Tutorial" style="width:950px; height:500px;">
+
+
 
 ### **任意**: アカウントの登録
 
