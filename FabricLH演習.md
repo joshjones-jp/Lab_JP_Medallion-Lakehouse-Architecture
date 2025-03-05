@@ -71,6 +71,7 @@ Fabricだけではなく、他にもアーキテクチャの図は作成可能�
 <img src="images/AZD8-5.png" alt="Azure Diagrams画面" style="width:950px; height:500px;">
 
 
+
 ## Fabricのサンプル アーキテクチャ図を確認する
 
 **1️⃣**
@@ -104,6 +105,7 @@ Fabricのサンプル図 **Lakehouse Architecture on Fabric**を探して、ク�
 
 <img src="images/AZD13.png" alt="Azure Diagrams画面" style="width:950px; height:500px;">
 
+
 ## Fabricのアーキテクチャ図を作成する
 
 
@@ -115,6 +117,7 @@ Fabricのサンプル図 **Lakehouse Architecture on Fabric**を探して、ク�
 
 1. lab 01-04 の作図をメダリオンアーキテクチャとして拡張しましょう
 
+
 ### 回答例
 
 1. [lab 01-04 の回答例へのリンク](./images/diagram-01-04.png)
@@ -124,13 +127,15 @@ Fabricのサンプル図 **Lakehouse Architecture on Fabric**を探して、ク�
 3. [メダリオンアーキテクチャの回答例へのリンク](./images/diagram-medallion.png)
    1. [Azure Diagrams](https://azurediagrams.com/NhmRmML4)
 
+
+
 ## 図のエクスポートと共有
 
 <u><b>図の共有方法は２つあります</b></u>
 
 方法1️⃣：画像として保存
 
-PNGとSVGは使えます。
+PNGとSVGは使えます。右上の画像アイコンを押して、ファイルタイプを選択します。
 
 SVGを選ぶと、ライブインタラクション（スクロール等）ができます
 
@@ -145,8 +150,13 @@ SVGを選ぶと、ライブインタラクション（スクロール等）が�
 
 1. **Private**:図は共有した人だけがアクセスできます。
 
+共有するために、Diagram を保存して、設定の歯車 ⚙ を押します。
+
+設定のオプションから、Sharing 👥 を押します。
 
 <img src="images/AZD21.png" alt="Azure Diagrams画面" style="width:950px; height:500px;">
+
+
 
 ## リソース
 
