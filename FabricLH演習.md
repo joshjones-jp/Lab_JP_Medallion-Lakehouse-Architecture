@@ -47,8 +47,21 @@ Fabricだけではなく、他にもアーキテクチャの図は作成可能�
 
 ## Fabricのアーキテクチャ図を作成する
 
-<!-- ❗永田さん！こちらの手順はどうすればいいのか、指定していただくか、書いていただければ助かります！他のセクションは任せてください❗ -->
-Medallionを説明するアーキテクチャ図を作る手順
+
+### 演習
+
+1. lab 01-04 で実施した内容を Azure Diatrams を使用して作図しましょう 
+2. （option）1. の図をクローンし、lab 05-07 の内容を反映してみましょう
+3. lab 01-04 の作図をメダリオンアーキテクチャとして拡張しましょう
+
+### 回答例
+
+1. [lab 01-04 の回答例へのリンク](./images/diagram-01-04.png)
+   1. [Azure Diagrams](https://azurediagrams.com/D54ivtsh)
+2. [lab 05-07 の回答例へのリンク](./images/diagram-05-07.png) 
+   1. [Azure Diagrams](https://azurediagrams.com/e4F4s7l8)
+3. [メダリオンアーキテクチャの回答例へのリンク](./images/diagram-medallion.png)
+   1. [Azure Diagrams](https://azurediagrams.com/NhmRmML4)
 
 ## 図のエクスポートと共有
 
@@ -56,4 +69,6 @@ Medallionを説明するアーキテクチャ図を作る手順
 
 ## リソース
 
-Fabricについてのリソースここに
+- [Microsoft Fabric でメダリオン Lakehouse アーキテクチャを実装](https://learn.microsoft.com/jp-ja/fabric/onelake/onelake-medallion-lakehouse-architecture)
+- [Microsoft Fabric のグリーンフィールド レイクハウス](https://learn.microsoft.com/ja-jp/azure/architecture/example-scenario/data/greenfield-lakehouse-fabric)
+- [Microsoft Fabric 開発ガイド](https://speakerdeck.com/ryomaru0825/microsoft-fabric-kai-fa-gaido?slide=31)
