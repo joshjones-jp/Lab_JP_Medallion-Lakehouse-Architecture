@@ -51,6 +51,7 @@ Fabricだけではなく、他にもアーキテクチャの図は作成可能�
 - Diagramを他のユーザーまたはコミュニティーに共有ができる
 - 他のユーザーにプライベート（非公開）Diagram 共有とアクセス権限の設定（役割型）
 
+
 <u><b>サインアップする方法</b></u>
 
 1️⃣
@@ -125,7 +126,27 @@ Fabricのサンプル図 **Lakehouse Architecture on Fabric**を探して、ク�
 
 ## 図のエクスポートと共有
 
-当日はTeamsを使っているか確認
+<u><b>図の共有方法は２つあります</b></u>
+
+方法1️⃣：画像として保存
+
+PNGとSVGは使えます。
+
+SVGを選ぶと、ライブインタラクション（スクロール等）ができます
+
+<img src="images/AZD20.png" alt="Azure Diagrams画面" style="width:950px; height:500px;">
+
+方法2️⃣：図へのアクセスを共有
+
+３つの共有タイプがあります。
+1. **Community**:図は検索可能で、誰でも閲覧でき、**Community Diagrams** に表示されます。
+    
+1. **Link**:図は検索から隠されていますが、ユニークなリンクを持っている人なら誰でもアクセスできます。
+
+1. **Private**:図は共有した人だけがアクセスできます。
+
+
+<img src="images/AZD21.png" alt="Azure Diagrams画面" style="width:950px; height:500px;">
 
 ## リソース
 
