@@ -43,7 +43,22 @@ Fabricだけではなく、他にもアーキテクチャの図は作成可能�
 
 ## Fabricのサンプル アーキテクチャ図を確認する
 
-サンプルとして含まれているモデルの確認
+左下にある **Examples** を押します
+
+<img src="images/AZD10.png" alt="Azure Diagrams画面" style="width:950px; height:500px;">
+
+Examplesのウィンドウが開かれます。ウィンドウの上をマウスで掴んで(1)、サイズを調整します。
+Fabricのサンプル図 **Lakehouse Architecture on Fabric**を探して、クリックします。(2)
+
+<img src="images/AZD11.png" alt="Azure Diagrams画面" style="width:950px; height:500px;">
+
+**Fabric Data Factory**と**Fabric Lakehouse**の間にある接続をマウスでかざして、統合の詳細が **Batch & Scheduled**となっている事を確認します。
+
+<img src="images/AZD12.png" alt="Azure Diagrams画面" style="width:950px; height:500px;">
+
+コミュニティーが提供している例もあります。**Community Diagrams**を押し、ブラウザのページ上検索（Ctrl+F)に「Fabric」を入力して、好きなサンプルを選びます。
+
+<img src="images/AZD13.png" alt="Azure Diagrams画面" style="width:950px; height:500px;">
 
 ## Fabricのアーキテクチャ図を作成する
 
