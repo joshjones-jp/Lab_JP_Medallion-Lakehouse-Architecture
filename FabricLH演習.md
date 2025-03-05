@@ -170,6 +170,8 @@ Fabricのサンプル図 **Lakehouse Architecture on Fabric**を探して、ク�
 <img src="images/AZD13.png" alt="Azure Diagrams画面" style="width:950px; height:500px;">
 
 
+
+
 # 🏠Fabricのアーキテクチャ図を作成する🌊
 
 
