@@ -44,7 +44,28 @@ Fabricだけではなく、他にもアーキテクチャの図は作成可能�
 
 ### **任意**: アカウントの登録
 
+
+今回の演習は、アカウントを登録せずに全てのタスクは完了可能です。
+しかし、アカウントを持っている場合は以下のメリットあります：
+・作った Diagram を保存し、後で編集する
+・Diagramを他のユーザーまたはコミュニティーに共有ができる
+・他のユーザーにプライベート（非公開）Diagram 共有とアクセス権限の設定（役割型）
+
+<u>サインアップする方法</u>
+
+1️⃣
+
+右上の**Sign In**を押して、**Sign in or Create Accountを押します**
+
 <img src="images/AZD8.png" alt="Azure Diagrams画面" style="width:950px; height:500px;">
+
+2️⃣
+
+**Don't have an account? Sign up now**を押します
+
+3️⃣
+
+以下の画面に、メールアドレスを入力して、メールアドレス確認が終わってからパスワードと名前を設定します。
 
 <img src="images/AZD8-5.png" alt="Azure Diagrams画面" style="width:950px; height:500px;">
 
