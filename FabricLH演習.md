@@ -56,11 +56,11 @@ Fabricだけではなく、他にもアーキテクチャの図は作成可能�
 
 ### 回答例
 
-1. [lab 01-04 の回答例へのリンク](./images/01-04-Diagram.svg)
+1. [lab 01-04 の回答例へのリンク](./images/diagram-01-04.png)
    1. [Azure Diagrams](https://azurediagrams.com/D54ivtsh)
-2. [lab 05-07 の回答例へのリンク](./images/05-07-Diagram.svg) 
+2. [lab 05-07 の回答例へのリンク](./images/diagram-05-07.png) 
    1. [Azure Diagrams](https://azurediagrams.com/e4F4s7l8)
-3. [メダリオンアーキテクチャの回答例へのリンク](./images/medallion-Diagram.svg)
+3. [メダリオンアーキテクチャの回答例へのリンク](./images/diagram-medallion.png)
    1. [Azure Diagrams](https://azurediagrams.com/NhmRmML4)
 
 ## 図のエクスポートと共有
