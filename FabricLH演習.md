@@ -3,7 +3,7 @@ title: Medallion Lakehouse アーキテクチャ入門🥉🥈🥇
 permalink: index.html
 layout: home
 ---
-## Medallion アーキテクチャについて
+# 🏅Medallion アーキテクチャについて🏠
 
 メダリオン レイクハウス アーキテクチャ (一般に"メダリオン アーキテクチャ" と呼ばれます) は、組織がレイクハウス内のデータを論理的に整理するために使用する設計パターンです。 これは Fabric に推奨される設計アプローチです。
 
@@ -15,7 +15,7 @@ layout: home
 人の作り方や好みによって、自然に図の見た目のバリエーションがあります。
 最も大切なのは、**自分のFabricの理解を深める事です。**
 
-## Azure Diagrams について
+# ☁️Azure Diagrams について☁️
 この演習では、無料ツールのAzure Diagramsを使用し、Fabricのアーキテクチャを説明する図を作成します。
 
 Azure Diagramsは、Microsoft の公式なツールではありません。Microsoft の社員がアーキテクチャを説明するために作った便利なリソースです。
@@ -40,7 +40,7 @@ Fabricだけではなく、他にもアーキテクチャの図は作成可能�
 <img src="images/AZD1.png" alt="Azure Diagramsメイン画面" style="width:950px; height:500px;">
 
 
-### ツールの案内と説明
+## ツールの案内と説明
 
 使い方1️⃣：右上の機能
 
@@ -135,7 +135,7 @@ Fabricだけではなく、他にもアーキテクチャの図は作成可能�
 
 
 
-## Fabricのサンプル アーキテクチャ図を確認する
+# ✅Fabricのサンプル アーキテクチャ図を確認する✅
 
 **1️⃣**
 
@@ -169,10 +169,10 @@ Fabricのサンプル図 **Lakehouse Architecture on Fabric**を探して、ク�
 <img src="images/AZD13.png" alt="Azure Diagrams画面" style="width:950px; height:500px;">
 
 
-## 🏠Fabricのアーキテクチャ図を作成する🌊
+# 🏠Fabricのアーキテクチャ図を作成する🌊
 
 
-### 演習
+## 演習
 
 1. lab 01-04 で実施した内容を Azure Diatrams を使用して作図しましょう
 
@@ -192,7 +192,7 @@ Fabricのサンプル図 **Lakehouse Architecture on Fabric**を探して、ク�
 
 
 
-## 図のエクスポートと共有
+# 📂図のエクスポートと共有🔗
 
 <u><b>図の共有方法は２つあります</b></u>
 
