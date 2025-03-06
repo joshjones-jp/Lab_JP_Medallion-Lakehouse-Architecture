@@ -177,7 +177,7 @@ Fabricのサンプル図 **Lakehouse Architecture on Fabric**を探して、ク�
 
 ## 演習
 
-1. lab 01-04 で実施した内容を Azure Diatrams を使用して作図しましょう
+1. lab 01-04 で実施した内容を Azure Diagrams を使用して作図しましょう
 
 1. （option）1. の図をクローンし、lab 05-07 の内容を反映してみましょう
 
@@ -186,12 +186,9 @@ Fabricのサンプル図 **Lakehouse Architecture on Fabric**を探して、ク�
 
 ### 回答例
 
-1. [lab 01-04 の回答例へのリンク](./images/diagram-01-04.png)
-   1. [Azure Diagrams](https://azurediagrams.com/D54ivtsh)
-2. [lab 05-07 の回答例へのリンク](./images/diagram-05-07.png) 
-   1. [Azure Diagrams](https://azurediagrams.com/e4F4s7l8)
-3. [メダリオンアーキテクチャの回答例へのリンク](./images/diagram-medallion.png)
-   1. [Azure Diagrams](https://azurediagrams.com/NhmRmML4)
+1. [lab 01-04 の回答例へのリンク](./images/diagram-01-04.png) : [Azure Diagrams](https://azurediagrams.com/D54ivtsh)
+2. [lab 05-07 の回答例へのリンク](./images/diagram-05-07.png) : [Azure Diagrams](https://azurediagrams.com/e4F4s7l8)
+3. [メダリオンアーキテクチャの回答例へのリンク](./images/diagram-medallion.png) : [Azure Diagrams](https://azurediagrams.com/NhmRmML4)
 
 
 
